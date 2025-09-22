@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="../images/profile_picture_2.jpg" alt="Arjun Tyagi" style="float: right; margin: 10px; width: 300px; border-radius: 10px;" />
+<!-- <img src="../images/profile_picture_2.jpg" alt="Arjun Tyagi" style="float: right; margin: 10px; width: 300px; border-radius: 10px;" /> -->
 <!-- <img src="../images/profile_picture_2.jpg" 
      alt="Arjun Tyagi" 
      style="float: right; margin-left: 60px; margin-top: 10px; margin-bottom: 10px; width: 500px; border-radius: 10px;" /> -->
