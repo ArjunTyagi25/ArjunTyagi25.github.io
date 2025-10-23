@@ -1,5 +1,6 @@
 ---
-title: "Assessing the Performance of Stateful Logic in 1-Selector-1-RRAM Crossbar Arrays"
+# title: "Assessing the Performance of Stateful Logic in 1-Selector-1-RRAM Crossbar Arrays"
+title: "[Title Redacted]"
 collection: publications
 category: conferences
 permalink: /publication/paper-01

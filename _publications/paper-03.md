@@ -1,5 +1,6 @@
 ---
-title: "Rapid, Accurate, Chip-Scale Simulation of Digital Compute Using Emerging Memory Devices"
+# title: "Rapid, Accurate, Chip-Scale Simulation of Digital Compute Using Emerging Memory Devices"
+title: "[Title Redacted]"
 collection: publications
 category: under_review
 permalink: /publication/paper-03
