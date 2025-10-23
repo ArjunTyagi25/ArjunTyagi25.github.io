@@ -1,5 +1,6 @@
 ---
-title: "Efficient Reinforcement Learning On Passive RRAM Crossbar Array"
+# title: "Efficient Reinforcement Learning On Passive RRAM Crossbar Array"
+title: "[Title Redacted]"
 collection: publications
 category: under_review
 permalink: /publication/paper-02
