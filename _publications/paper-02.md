@@ -6,9 +6,9 @@ category: under_review
 permalink: /publication/paper-02
 # excerpt: 'This work is about the use of RRAM '
 # date: 2024-05-19
-venue: 'IEEE TVLSI'
+venue: 'IEEE AICAS 2026'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/abs/2407.08242'
+# paperurl: 'https://arxiv.org/abs/2407.08242'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'A. Tyagi and S. Kvatinsky, "Assessing the Performance of Stateful Logic in 1-Selector-1-RRAM Crossbar Arrays," 2024 IEEE International Symposium on Circuits and Systems (ISCAS), Singapore, Singapore, 2024, pp. 1-5, doi: 10.1109/ISCAS58744.2024.10558539.'
 ---

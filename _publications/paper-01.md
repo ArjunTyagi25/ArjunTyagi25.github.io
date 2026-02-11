@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/paper-01
 # excerpt: 'This paper is about comparing the performance of MAGIC stateful logic on 1S1R arrays.'
-date: 2023-08-15
+# date: 2024-08-15
 venue: 'IEEE ISCAS 2024'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10558539'
