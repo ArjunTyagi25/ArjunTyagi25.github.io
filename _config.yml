@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_picture.png"
+  avatar           : "profile_picture_2.jpg"
   name             : "Arjun Tyagi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at University of Illinois Urbana-Champaign"

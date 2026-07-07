@@ -15,7 +15,7 @@ Hi there! My name is Arjun Tyagi. I am a Ph.D. Candidate in the [Department of C
 
 Prior to coming to Illinois, I received my B.E. degree in Electronics and Instruments from [Birla Institute of Technology & Science, Pilani](https://www.bits-pilani.ac.in/goa/). During my undergrad, I worked with [Prof. Shahar Kvatinsky](https://kvatinsky.com/) at [Technion](https://www.technion.ac.il/en/) and [Prof. Shubham Sahay](https://home.iitk.ac.in/~ssahay/) at [IIT Kanpur](https://www.iitk.ac.in/) on a variety of research projects ranging from energy-efficient machine learning to processing-in/using-memory.
 
-## Recent News
+# Recent News
 
 - May 2026: Received the [W. J. Poppelbaum Memorial Award](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/w-j-poppelbaum-memorial-award)
 - April 2026: Passed the Qualifying Examination in the area of Architecture, Compilers and Parallel Computing
