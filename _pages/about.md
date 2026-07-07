@@ -17,6 +17,5 @@ Prior to coming to Illinois, I received my B.E. degree in Electronics and Instru
 
 ## Recent News
 
-- 2026: Passed my qualifying exam.
-- 2026: Received an award for my research.
-- 2026: Presented recent work at a conference or workshop.
+- May 2026: Received the [W. J. Poppelbaum Memorial Award](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/w-j-poppelbaum-memorial-award)
+- April 2026: Passed the Qualifying Examination in the area of Architecture, Compilers and Parallel Computing
