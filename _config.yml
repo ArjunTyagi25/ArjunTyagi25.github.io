@@ -83,12 +83,14 @@ author:
 publication_category:
   books:
     title: 'Books'
+  workshop:
+    title: 'Workshop Papers'
   journals:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
   under_review:
-    title: 'Under Review'
+    title: 'Under Review Manuscripts'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
