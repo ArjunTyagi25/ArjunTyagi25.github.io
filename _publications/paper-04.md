@@ -5,7 +5,7 @@ category: workshop
 permalink: /publication/paper-04
 # excerpt: 'This paper is about comparing the performance of MAGIC stateful logic on 1S1R arrays.'
 # date: 2024-08-15
-venue: '2</sup>nd</sup> Workshop on Ethical Systems and Architecture Design (HotEthics)'
+venue: '2<sup>nd</sup> Workshop on Ethical Systems and Architecture Design (HotEthics)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: /files/26hotethics_brieram.pdf
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
