@@ -26,7 +26,7 @@ author:
   avatar           : "profile_picture_3.jpg"
   name             : "Arjun Tyagi"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student at University of Illinois Urbana-Champaign"
+  bio              : "Ph.D. candidate at University of Illinois Urbana-Champaign"
   location         : "Urbana, IL"
   # employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  # github           : "academicpages"
+  github           : "https://github.com/ArjunTyagi25"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
